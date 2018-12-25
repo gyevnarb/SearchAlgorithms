@@ -1,11 +1,15 @@
 # Search Algorithms
 This repository contains implementations of various search algorithms from the field of AI, including:
 
-- Breadth-First Search
-- Depth-First Search
-- Uniform Cost Search
-- Depth Limited Search
-- Iterative Deepening Search
+- Uninformed Search Algorithms:
+  - Breadth-First Search
+  - Depth-First Search
+  - Uniform Cost Search
+  - Depth Limited Search
+  - Iterative Deepening Search
+
+- Informed Search Algorithms:
+  - WIP
 
 The goal of this project is not to provide the best or fastest code possible, but to give an easy to understand implementation of the algorithms described above
 
